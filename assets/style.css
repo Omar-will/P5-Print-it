@@ -131,21 +131,21 @@ header {
 
 .precedent {
 	width: 50px;
-  height: 70px; 
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  left: 40px;
-  cursor: pointer; 
+    height: 70px; 
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 40px;
+    cursor: pointer; 
 }
 .suivant {
 	width: 50px;
-  height: 70px; 
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  right: 40px;
-  cursor: pointer; 
+    height: 70px; 
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 40px;
+    cursor: pointer; 
 }
 
 /* Gestion des points du carrousel */
